@@ -1,0 +1,55 @@
+.heroimage {
+    justify-content: center;
+    text-align: center;
+
+}
+
+.heroimage img {
+    justify-content:center;
+    padding-right: 25px;
+
+}
+
+.media img{
+padding-left:25px;
+height:400px;
+width:450px;
+padding-bottom: 75px;
+}
+
+.container-fluid1 {
+    text-align: justify;
+    width: 1100px;
+    padding-left: 10px;
+    
+}
+
+.container-fluid1 img {
+    margin: 5px;
+    padding-left:10px;
+    padding-bottom:25px;
+    
+}
+
+h3 {
+    text-align:center;
+}
+
+.research {
+    padding-left:10px;
+    text-align:center;
+}
+
+.Objectives {
+    text-align:center;
+}
+
+.keyinsights p {
+    padding-left:10px;
+    
+}
+
+.keyinsights h6 {
+    padding-left:10px;
+}
+
